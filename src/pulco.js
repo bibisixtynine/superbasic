@@ -22,7 +22,7 @@ function Pulco(e) {
 
   
   for (let i=0; i<10000; i++) {
-    let c = Block('PRINT')
+    let c = Block('ECRIS')
     e.appendChild(c)
     
     if (Math.random()>0.8) {

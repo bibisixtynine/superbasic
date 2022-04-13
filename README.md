@@ -1,14 +1,9 @@
-# esbuild69
+# superbasic
 
-esbuild experiment
-
-## What's in this project?
+the online super basic webapp creator ;-)
 
 
-## Try this next 🏗️
-
-
-## You built this with Glitch!
+## built with Glitch!
 
 [Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 

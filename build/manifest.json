@@ -4,8 +4,8 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "esbuild69",
-    "short_name": "esb69",
+    "name": "superbasic",
+    "short_name": "superbasic",
     "description": "pwa with esbuild",
     "icons": [
         {
