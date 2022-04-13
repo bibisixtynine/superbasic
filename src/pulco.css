@@ -1,0 +1,17 @@
+#editor {
+  background-color: #183822;
+  color: #76fc93;
+  width: 50%;
+}
+
+.block {
+  display: inline-block;
+  margin: 3px;
+  padding: 3px;
+  border: solid;
+  border-width: 1px;
+  border-radius: 0.5em;
+  font-family: system-ui;
+  width: fit-content;
+  
+}

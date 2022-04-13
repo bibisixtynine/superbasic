@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "esbuild src/index.js --bundle --outdir=build --servedir=build",
+    "build": "esbuild src/index.js --bundle --outdir=build --define:process.env.NODE_ENV=\\\"production\\\""
+  },
+  "devDependencies": {
+    "esbuild": "^0.12.21"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "glitch": {
+    "projectType": "generated_static"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "esbuild69",
+    "short_name": "esb69",
+    "description": "pwa with esbuild",
+    "icons": [
+        {
+            "src": "https://cdn.glitch.global/3d4c6936-ea72-4e35-8159-be211884b2e2/icon-512x512.png?v=1649712007462",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
